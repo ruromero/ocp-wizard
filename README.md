@@ -44,6 +44,7 @@ Allow multiple choice with any number. A load factor on each should be applied
    6.1. What is the estimated overhead for this software?
 ## 5. VM or Hardware size
 Consider mixed deployments
+
 7. Are you going to use VM?
 
    7.1. Which virtualization solution would you use?
@@ -57,6 +58,7 @@ Consider mixed deployments
    7.3. What is the memory of the VM you will use for nodes?
    
    7.4. What is the number of vCPUs you will use for nodes?
+   
    
 8. Are you going to use Physical machines?
 
